@@ -15,18 +15,13 @@
 </p>
 
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Luis321123&theme=synthwave&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis321123&layout=compact&theme=synthwave" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luis321123&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis321123&layout=compact&theme=synthwave&langs_count=8&card_width=320" />
+</a>
+
 
 
 ## Pluses

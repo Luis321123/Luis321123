@@ -29,5 +29,5 @@
 </p>
 
 
-## Contacto
-- 📫 Correo: [luis1233210e@gmail.com](mailto:luis1233210e@gmail.com)
+## Pluses
+<p align="center">📫 English c2, illustrator, photoshop, figma </p>

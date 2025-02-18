@@ -1,5 +1,7 @@
 <h1 align="center" style="font-size: 3em;">¡Hola! mi nombre es Luis Peña⚡</h1>
 
+## actualmente soy backend-developer con ganas de mejorar en el mundo de la IA
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>

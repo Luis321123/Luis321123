@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis321123&layout=compact&theme=light)
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis321123&layout=compact&theme=light)
 </p>
 
 

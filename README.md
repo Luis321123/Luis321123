@@ -1,4 +1,5 @@
-#Soy Luis Peña ⚡
+<h1 align="center" style="font-size: 3em;">¡Hola! ⚡</h1>
+<p align="center">Mi nombre es <b>[Luis Peña]</b></p>
 
 
 

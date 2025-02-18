@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<p align="center">
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis321123&layout=compact&theme=light)
-</p>
+<p align="center">[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis321123&layout=compact&theme=light)</p>
 
 
 ## Contacto

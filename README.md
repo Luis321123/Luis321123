@@ -3,12 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" alt="Photoshop" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodedotjs.svg" alt="Node.js" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="TypeScript" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" alt="PHP" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" alt="Laravel" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="Docker" width="30" height="30"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis321123&layout=compact&theme=light)

@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 3em;">¡Hola! mi nombre es Luis Peña⚡</h1>
 
-<p align="center"> actualmente soy backend-developer con ganas de mejorar en el mundo de la IA</p>
+<p align="center"> actualmente soy backend-developer con ansias de crecer en el mundo de la IA y el Machine Learning </p>
 
 
 <p align="center">

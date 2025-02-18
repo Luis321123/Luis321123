@@ -14,8 +14,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis321123&layout=compact&theme=light" alt="Top Langs" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Luis321123&theme=synthwave&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis321123&layout=compact&theme=synthwave" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 
